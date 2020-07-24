@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FilmsChecker</string>
+    <string name="tmdb_api_key">1fd5bafb66ba629104f66c9e439f6ab8</string>
+    <string name="tmdb_base_url">https://api.themoviedb.org/3/</string>
+    <string name="addFav">AJOUTER AUX FAVORIS</string>
+    <string name="favori">FAVORI</string>
+</resources>

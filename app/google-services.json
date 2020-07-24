@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "288195316574",
+    "firebase_url": "https://filmchecker-d3c80.firebaseio.com",
+    "project_id": "filmchecker-d3c80",
+    "storage_bucket": "filmchecker-d3c80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288195316574:android:d685d845a581f53fe15dcf",
+        "android_client_info": {
+          "package_name": "com.example.filmschecker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288195316574-8c3ri2qc59frrrh2ilfqak1nih3bu6ed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.filmsChecker",
+            "certificate_hash": "084af90bdfc40645407076026b447f197bfdf3ec"
+          }
+        },
+        {
+          "client_id": "288195316574-7q62bf7mpnrhusu8m4popv6clkp0anjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5j3urxbmY1PlldtlQzN9bAjrFRaawOQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288195316574-1a05o69bgol2irhvbn0nctjbtaqao1jv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
